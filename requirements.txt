@@ -1,0 +1,4 @@
+# This project uses only Python's standard library.
+# No external packages are required.
+# (socket, threading, concurrent.futures, argparse, json, ipaddress
+#  are all built in — nothing to install.)
