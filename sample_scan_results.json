@@ -1,0 +1,162 @@
+{
+  "target": "127.0.0.1",
+  "scan_started": "2026-09-26T19:17:25.371689+00:00",
+  "scan_finished": "2026-09-26T19:17:25.373778+00:00",
+  "ports_scanned": 22,
+  "results": [
+    {
+      "port": 21,
+      "status": "closed",
+      "service_guess": "FTP",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.371869+00:00"
+    },
+    {
+      "port": 22,
+      "status": "open",
+      "service_guess": "SSH",
+      "detail": null,
+      "checked_at": "2026-09-26T19:17:25.372170+00:00"
+    },
+    {
+      "port": 23,
+      "status": "closed",
+      "service_guess": "Telnet",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372291+00:00"
+    },
+    {
+      "port": 25,
+      "status": "closed",
+      "service_guess": "SMTP",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372411+00:00"
+    },
+    {
+      "port": 53,
+      "status": "closed",
+      "service_guess": "DNS",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372437+00:00"
+    },
+    {
+      "port": 80,
+      "status": "closed",
+      "service_guess": "HTTP",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372601+00:00"
+    },
+    {
+      "port": 110,
+      "status": "closed",
+      "service_guess": "POP3",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372625+00:00"
+    },
+    {
+      "port": 143,
+      "status": "closed",
+      "service_guess": "IMAP",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372640+00:00"
+    },
+    {
+      "port": 443,
+      "status": "closed",
+      "service_guess": "HTTPS",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372655+00:00"
+    },
+    {
+      "port": 445,
+      "status": "closed",
+      "service_guess": "SMB",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372737+00:00"
+    },
+    {
+      "port": 3306,
+      "status": "closed",
+      "service_guess": "MySQL",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372749+00:00"
+    },
+    {
+      "port": 3389,
+      "status": "closed",
+      "service_guess": "RDP",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372843+00:00"
+    },
+    {
+      "port": 5432,
+      "status": "closed",
+      "service_guess": "PostgreSQL",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372860+00:00"
+    },
+    {
+      "port": 5900,
+      "status": "closed",
+      "service_guess": "VNC",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372874+00:00"
+    },
+    {
+      "port": 6379,
+      "status": "closed",
+      "service_guess": "Redis",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372943+00:00"
+    },
+    {
+      "port": 8008,
+      "status": "closed",
+      "service_guess": "Chromecast / cast device",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.372958+00:00"
+    },
+    {
+      "port": 8009,
+      "status": "closed",
+      "service_guess": "Chromecast / cast device",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.373064+00:00"
+    },
+    {
+      "port": 8080,
+      "status": "open",
+      "service_guess": "HTTP (alternate)",
+      "detail": null,
+      "checked_at": "2026-09-26T19:17:25.373108+00:00"
+    },
+    {
+      "port": 8443,
+      "status": "closed",
+      "service_guess": "HTTPS (alternate)",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.373297+00:00"
+    },
+    {
+      "port": 9100,
+      "status": "closed",
+      "service_guess": "Network printer (raw print)",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.373321+00:00"
+    },
+    {
+      "port": 27017,
+      "status": "closed",
+      "service_guess": "MongoDB",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.373335+00:00"
+    },
+    {
+      "port": 62078,
+      "status": "closed",
+      "service_guess": "Apple mobile device sync",
+      "detail": "Connection refused (errno 111) \u2014 nothing is listening on this port.",
+      "checked_at": "2026-09-26T19:17:25.373497+00:00"
+    }
+  ]
+}
